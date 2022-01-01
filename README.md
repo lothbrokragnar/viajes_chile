@@ -1,6 +1,10 @@
 # viajes_chile
 Prueba final del módulo Fundamentos Desarrollo Web (G14)
 
+Para visualizar l apgin[a Werb visite la siguiente URL:
+
+https://lothbrokragnar.github.io/viajes_chile/
+
 Requerimientos
 1. Construir la estructura de la página usando HTML.
 (2 Puntos)
